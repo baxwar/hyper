@@ -1,0 +1,8 @@
+{
+  "token": "your-token",
+  "prefix": "h!",
+  "version": "2.3",
+  "logging": true,
+  "color": "BLUE",
+  "lang": "en-US"
+}
